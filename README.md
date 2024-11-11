@@ -34,7 +34,7 @@ Contains the 'Visualizations' subfolder with all visualizations used for explora
 Final Excel presentation.
 
 ## Code Overview
-ode was written in Python and executed in Jupyter notebooks.
+Code was written in Python and executed in Jupyter notebooks.
 
 Utilizes the following libraries:
 
